@@ -1,0 +1,5 @@
+{
+  "name": "MasloMARKET Podbor AI",
+  "description": "Интеллектуальный сервис подбора моторного масла по VIN-коду с учетом условий эксплуатации",
+  "requestFramePermissions": []
+}
